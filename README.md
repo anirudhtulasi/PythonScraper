@@ -6,8 +6,6 @@
 
 It scrapes bing.com for either text or images.
 
-![](header.png)
-
 
 ## Usage example
 
