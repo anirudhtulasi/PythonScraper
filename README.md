@@ -69,7 +69,7 @@ from io import BytesIO
     
 ## Meta
 
-Your Name – [@AnirudhTulasi](https://twitter.com/AnirudhTulasi) – anirudhtulasi.x@gmail.com
+Anirudh Tulasi – [@AnirudhTulasi](https://twitter.com/AnirudhTulasi) – anirudhtulasi.x@gmail.com
 
 ## Contributing
 
