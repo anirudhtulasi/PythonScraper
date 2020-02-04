@@ -1,4 +1,4 @@
-# Python Web and Image Scraper
+# Python Web and Image Scraper [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20python%WebScraper&via=anirudh&hashtags=python,design,templates,blocks,developers)
 > This scraper is built in Python3 and uses Beautiful Soup to parse and scrape the webpages.
 
 [![Build Status][travis-image]][travis-url]
